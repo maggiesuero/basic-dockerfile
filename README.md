@@ -4,7 +4,7 @@ Basic Dockerfile Project for [Roadmap.sh](https://roadmap.sh/projects/basic-dock
 
 ## Prerequisites
 
-Docker needs to be installed. If you don't have it, you can downloaded from [here](https://www.docker.com/)
+Docker needs to be installed. If you don't have it, you can download from [here](https://www.docker.com/)
 
 ## Instructions
 
@@ -16,7 +16,7 @@ cd basic-dockerfile
 
 ### 2. Build the Docker Image
 ```
-docker built -t hello-captain
+docker build -t hello-captain .
 ```
 
 ### 3. Run the Docker Container
